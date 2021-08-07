@@ -18,3 +18,8 @@
 
 add_lunch_combo omni_BV6800Pro-userdebug
 add_lunch_combo omni_BV6800Pro-eng
+export FOX_USE_LZMA_COMPRESSION=1
+export FOX_EXTREME_SIZE_REDUCTION=1
+export FOX_REMOVE_AAPT=1
+export FOX_REMOVE_BASH=1
+export FOX_REMOVE_BASH=1
